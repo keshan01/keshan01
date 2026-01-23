@@ -4,7 +4,7 @@
 
 ![Typewriter Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=7C3AED&width=500&lines=I'm+a+Creative+Developer;Open+Source+Enthusiast;Let's+Build+Something+Awesome!)
 
-[![GitHub Followers](https://img.shields.io/github/followers/keshankumara?label=Follow&style=social&color=7C3AED)](https://github.com/yourusername)
+[![GitHub Followers](https://img.shields.io/github/followers/keshankumara?label=Follow&style=social&color=7C3AED)](https://github.com/keshankumara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshankumara)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social&color=1DA1F2)](https://twitter.com/yourhandle) -->
 
