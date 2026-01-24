@@ -100,5 +100,5 @@
 
 ---
 
-⭐ *From Keshan Kumara* | **"Code, Learn, and Grow Every Day."***
+⭐ *From Keshan Kumara* | **"Code, Learn, and Grow Every Day."**
 
