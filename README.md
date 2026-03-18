@@ -42,28 +42,29 @@
 
 ## Featured Projects
 
-### 1. [Ballerina Translator](https://github.com/keshankumara/ballerina-translator)
-> A full-stack translation application with a Ballerina backend and React frontend, offering text translation, image OCR, and voice transcription using Google's Gemini AI.
+### 1. [Smart Power Management Using IoT and AI]([https://github.com/keshankumara/ballerina-translator](https://github.com/keshankumara/smart-power-management-IoT-AI))
+> An intelligent IoT-based system for real-time household energy monitoring and optimization using machine learning techniques.
 
-- **Tech Stack**: Ballerina, React 18, Vite, JavaScript, CSS, Google Gemini AI
+- **Tech Stack**: Python, Pandas, Matplotlib, Scikit-learn, ESP32, MQTT
 - **Key Features**: 
-  - Text translation between 100+ languages
-  - Image OCR and instant translation
-  - Voice recognition and speech-to-text translation
-  - Responsive UI with drag-and-drop interface
-  - Real-time feedback and error handling
-- **Status**: Active
+  - Real-time energy consumption monitoring using IoT devices (ESP32)
+  - Machine learning model (Random Forest) for energy usage classification (85% accuracy)
+  - Data preprocessing and feature engineering for improved model performance
+  - Data visualization for energy insights and pattern analysis
+  - Live data streaming using MQTT protocol
+- **Status**: Completed
 
-### 2. [Spring Boot Employee CRUD API](https://github.com/keshankumara/springboot-employee-crud-api)
-> A simple RESTful API for managing employees, built with Spring Boot and connected to a MySQL database. Supports full CRUD operations and tested using Postman.
+### 2. [Customer Risk Profiling System]([https://github.com/keshankumara/springboot-employee-crud-api](https://github.com/Customer-Risk-Profiling-System-with-AI))
+> Spring Boot, REST APIs, PostgreSQL, React, Microservices Architecture
 
 - **Tech Stack**: Java 17+, Spring Boot, Spring Data JPA, MySQL, Maven, Postman
 - **Key Features**: 
-  - Create, Read, Update, Delete employees
-  - View all employees or by ID
-  - Proper error handling
-  - Tested with Postman  
-- **Status**: Completed
+  - AI-based customer risk prediction system
+  - Microservices architecture for scalability and modularity
+  - Backend services built with Spring Boot
+  - RESTful API design for communication between services
+  - Frontend interface using React  
+- **Status**: Ongoing
 
 
 
