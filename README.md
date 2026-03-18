@@ -42,7 +42,7 @@
 
 ## Featured Projects
 
-### 1. [Smart Power Management Using IoT and AI]([https://github.com/keshankumara/ballerina-translator](https://github.com/keshankumara/smart-power-management-IoT-AI))
+### 1. [Smart Power Management Using IoT and AI](https://github.com/keshankumara/smart-power-management-IoT-AI)
 > An intelligent IoT-based system for real-time household energy monitoring and optimization using machine learning techniques.
 
 - **Tech Stack**: Python, Pandas, Matplotlib, Scikit-learn, ESP32, MQTT
@@ -54,7 +54,7 @@
   - Live data streaming using MQTT protocol
 - **Status**: Completed
 
-### 2. [Customer Risk Profiling System]([https://github.com/keshankumara/springboot-employee-crud-api](https://github.com/Customer-Risk-Profiling-System-with-AI))
+### 2. [Customer Risk Profiling System](https://github.com/Customer-Risk-Profiling-System-with-AI)
 > Spring Boot, REST APIs, PostgreSQL, React, Microservices Architecture
 
 - **Tech Stack**: Java 17+, Spring Boot, Spring Data JPA, MySQL, Maven, Postman
