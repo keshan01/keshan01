@@ -79,7 +79,7 @@
 
 
 ---
-<!--
+
 ## GitHub Stats & Activity
 
 ![Your GitHub Stats](https://github-readme-stats-keshan.vercel.app/api?username=keshankumara&show_icons=true&theme=radical)
@@ -87,7 +87,7 @@
 ![Top Languages](https://github-readme-stats-keshan.vercel.app/api/top-langs/?username=keshankumara&layout=compact&theme=radical)
 
 ---
--->
+
 
 ## 🌱 Open to
 - 💼 Internship opportunities in Software Engineering or DevOps  
